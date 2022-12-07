@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://Merihan1997.github.io/best-accessories/sitemap.xml
