@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://classywatches.vercel.app/sitemap.xml
